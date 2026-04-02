@@ -1,0 +1,94 @@
+.back{
+    background-color: #080736;
+    padding: 900px;
+}
+
+.squared{
+    background-color: rgb(70, 68, 68);
+    padding:100px;
+    height: 650px;
+    margin-top: -110%;
+    margin-left: 30%;
+    width: 350px;
+    border-style: groove;
+    border-color:blueviolet ;
+}
+
+.circle{
+    background-color: violet;
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    margin-top: -55%;
+    margin-left:39%;
+}
+
+
+img{
+    
+    background-color: violet;
+    border-radius: 90%;
+    width: 250px;
+    margin-top: 10%;
+    margin-left: 9%;
+}
+
+@font-face {
+    font-family:Montserrat;
+    src: url(Fonts/Montserrat-Italic.ttf);
+}
+
+h1{
+    color: blueviolet;
+    font-family: Montserrat;
+    font-weight: 300;
+    text-align: center;
+}
+
+.Role{
+    font-family: Montserrat;
+    color: violet;
+    text-align: center;
+}
+
+
+h2{
+    color: blueviolet;
+    text-align: center;
+    font-family: montserrat;
+    font-weight: 700;
+    margin-top: 2%;
+}
+
+
+p{
+    text-align: start;
+    margin-left: 31%;
+    margin-right: 33%;
+    color:#e0e0e0 ;
+    font-family: Montserrat;
+}
+
+.Email{
+        font-family:Montserrat;
+        color: violet;
+        font-weight: 300;
+        text-align: center;
+}
+
+.Phone{
+    color: violet;
+    text-align: center;
+    font-family: Montserrat;
+    font-weight: 300;
+}
+
+button{
+    background-color:#080736 ;
+    padding: 15px;
+    width: 200px;
+    color: violet;
+    font-family: Montserrat;
+    margin-left: 44%;
+    font-weight: bold;
+}
